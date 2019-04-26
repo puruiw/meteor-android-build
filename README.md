@@ -1,3 +1,8 @@
+./build-app.sh <app_dir> <server_address>
+
+
+===== Original README ======
+
 # Meteor Android Docker image
 
 This repository contains a Docker image with an environment prepared to build Cordova-based Android APKs from Meteor projects.
