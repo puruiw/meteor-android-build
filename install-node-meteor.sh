@@ -15,6 +15,6 @@ bash ${SCRIPTS_PATH}/tar-restore.sh
 
 echo "Installing Node..."
 
-curl -sL https://deb.nodesource.com/setup_4.x | bash -
+curl -sL https://deb.nodesource.com/setup_10.x | bash -
 apt-get install -y nodejs
 npm install npm -g
